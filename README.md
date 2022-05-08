@@ -1,2 +1,6 @@
 # Fakegram
-Fakegram is a fake instagram application
+ - Like instagram
+ - Follow peaople (to see other people's posts)
+ - Like posts
+ - Comment on posts
+ - etc.. 
